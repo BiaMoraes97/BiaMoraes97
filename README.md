@@ -1,7 +1,7 @@
 ## Hi, I'm Beatriz Moraes! 👋
 
 ### 👩🏻‍💻 About Me
-#### I am an undergraduate Computer Science student in the 3rd semester at CESAR School, and I use GitHub for my college projects. And I’m very happy to be able to expand my knowledge in the field of programming and excited about what I can still achieve and accomplish.  
+#### I am an undergraduate Computer Science student in the 4th semester at CESAR School, and I use GitHub for my college projects. And I’m very happy to be able to expand my knowledge in the field of programming and excited about what I can still achieve and accomplish.  
 
 ### 💻🛠️ **Technologies**
 
